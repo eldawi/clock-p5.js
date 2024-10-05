@@ -1,2 +1,2 @@
-# p5-JS-
-Javascript mini projects using open-source p5.js library
+# clock p5.js
+A javascript mini-project using open-source p5.js library
